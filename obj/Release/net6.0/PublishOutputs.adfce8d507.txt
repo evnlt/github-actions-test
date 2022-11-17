@@ -1,0 +1,7 @@
+C:\Users\Иван\Desktop\docker_asp\bin\Release\net6.0\publish\docker_asp.exe
+C:\Users\Иван\Desktop\docker_asp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Иван\Desktop\docker_asp\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Иван\Desktop\docker_asp\bin\Release\net6.0\publish\docker_asp.dll
+C:\Users\Иван\Desktop\docker_asp\bin\Release\net6.0\publish\docker_asp.deps.json
+C:\Users\Иван\Desktop\docker_asp\bin\Release\net6.0\publish\docker_asp.runtimeconfig.json
+C:\Users\Иван\Desktop\docker_asp\bin\Release\net6.0\publish\docker_asp.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cI1zP1KA6ombT056OjXOPM2YJOh71JTu+evWtFv2j80=",
+  "Source": "docker_asp",
+  "BasePath": "_content/docker_asp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
