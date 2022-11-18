@@ -2,7 +2,7 @@ name: test-action
 
 on:
   workflow_run:
-    workflows: [build]
+    workflows: [.NET]
     types:
       - completed
 
